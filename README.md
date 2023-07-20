@@ -46,3 +46,9 @@ There are also two optional challenges for gas optimization:
   - still preserve all existing functionality and adhere to the constraints
 - Enable transfering the NFT while still staying below the 50k gas limit for minting
   - don't worry about designing a mechanism for authenticating if the transfer should be allowed
+
+## Instructions
+
+1. Fork this repo as a new private repo owned by you (again, no one else should see your submission)
+2. On exercise completion, invite `ilikesymmetry` to your private repo
+3. On exercise completion, message your contact that you are done (dm [@ilikesymmetry](https://twitter.com/ilikesymmetry) if you do not have a contact)
