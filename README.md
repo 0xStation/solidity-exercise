@@ -17,6 +17,7 @@
 - Code quality matters. If everyone gets the same exercise, we have to split hairs on the readability and performance of each candidate's submission.
 - We like creativity and breaking assumed, but not required, constraints.
 - If you happen to extend the functionality of the exercise beyond its core requirements, please do so in another contract so that we can cleanly evaluate meeting our needs first and then look at your new ideas with a more open mind.
+- The exercise ideally takes 1-4 hours to complete. Longer times are more likely if you are less familiar with the mechanisms requested as you will have to learn them and then implement them. We would additionally appreciate if you note how long your implementation takes you when submitting
 
 ## Exercise
 
