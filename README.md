@@ -6,8 +6,8 @@
 
 1. Candidates are **not** allowed to publicize or discuss the contents of the exercise with anyone
 
-- applies during the exercise when creating their solution
-- also applies after the exercise is submitted to preserve the integrity of the exercise being unknown to future applicants
+   - applies during the exercise when creating their solution
+   - also applies after the exercise is submitted to preserve the integrity of the exercise being unknown to future applicants
 
 2. Candidates are allowed (and encouraged) to reference external internet resources for completing the exercise
 3. Where relevant, candidates must make inline comments in reference to resources used in their implementation
@@ -42,7 +42,7 @@ The `ERC721ID` contract has the following **minimum requirements**:
 
 While important, testing is not a part of the minimum requirements for respect for time. Adding tests, especially for the more complicated mint functions can help differentiate your submission.
 
-There also is a set of optional challenges for gas optimization:
+There are also two optional challenges for gas optimization:
 
 - Make your mint functions sub 50k gas
   - still preserve all existing functionality and adhere to the constraints
