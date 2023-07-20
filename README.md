@@ -30,22 +30,22 @@ The `ERC721ID` contract has the following **minimum requirements**:
   - admins can add or remove other admins
   - admins can revoke NFTs
 - Mint
-  - mint from an admin wallet
-  - mint with a signature from an admin wallet (EIP712 recommended)
-  - mint with a merkle proof that was approved by an admin wallet
+  - mint via call by an admin
+  - mint with a signature from an admin (EIP712 recommended)
+  - mint with a merkle proof that was approved by an admin
 - Transfer
   - transfers are not allowed without guarantee that the new wallet is the same human
 - Owners
   - given an address, return the `tokenId` that it owns
 
-While important, testing is not a part of the minimum requirements for respect for time. Adding tests, especially for the more complicated mint functions can help differentiate your submission.
+While important, testing is not a part of the minimum requirements for respect of your time. Adding tests, especially for the more complicated mint functions can help differentiate your submission.
 
 There are also two optional challenges for gas optimization:
 
-- Make your mint functions sub 50k gas
-  - still preserve all existing functionality and adhere to the constraints
+- Make your mint functions cost under 50k gas
+  - must still preserve all existing functionality and adhere to the constraints
 - Enable transfering the NFT while still staying below the 50k gas limit for minting
-  - don't worry about designing a mechanism for authenticating if the transfer should be allowed
+  - don't concern yourself with a mechanism for authenticating if the transfer should be allowed
 
 ## Instructions
 
