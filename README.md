@@ -12,7 +12,7 @@
 
 **Notes**
 
-- Candidates will not be considered if they cannot pass the minimum requirements, beyond that it is up to you to differentiate your abilities through more advanced implementations or otherwise.
+- Candidates will not be considered if they cannot pass the minimum requirements. Beyond that, it is up to you to differentiate your abilities through more advanced implementations or otherwise.
 - Requirements are kept vauge intentionally, and we believe you have all the context you need to solve the problem while filling in the gaps on your own. That said, asking questions will not impact your candidacy so please do not hesitate to reach out.
 - Code quality matters. If everyone gets the same exercise, we have to split hairs on the readability and performance of each candidate's submission.
 - We like creativity and breaking assumed, but not required, constraints.
