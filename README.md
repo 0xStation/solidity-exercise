@@ -4,13 +4,11 @@
 
 **Rules**
 
-1. Candidates are **not** allowed to publicize or discuss the contents of the exercise with anyone
-
+1. Candidates are allowed (and encouraged) to reference external internet resources for completing the exercise
+2. Where relevant, candidates must make inline comments in reference to resources used in their implementation
+3. Candidates are **not** allowed to publicize or discuss their submission with anyone
    - applies during the exercise when creating their solution
    - also applies after the exercise is submitted to preserve the integrity of the exercise being unknown to future applicants
-
-2. Candidates are allowed (and encouraged) to reference external internet resources for completing the exercise
-3. Where relevant, candidates must make inline comments in reference to resources used in their implementation
 
 **Notes**
 
