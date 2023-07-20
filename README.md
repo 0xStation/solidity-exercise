@@ -12,10 +12,10 @@
 2. Candidates are allowed (and encouraged) to reference external internet resources for completing the exercise
 3. Where relevant, candidates must make inline comments in reference to resources used in their implementation
 
-**Recommendations**
+**Notes**
 
 - Candidates will not be considered if they cannot pass the minimum requirements, beyond that it is up to you to differentiate your abilities through more advanced implementations or otherwise.
-- You should not feel pressured to complete _everything_ that this exercise implies is available to implement. This exercise is meant to have a "high ceiling" and have more things to implement than are practical for the time that should be allotted by a candidate.
+- Requirements are kept vauge intentionally, and we believe you have all the context you need to solve the problem while filling in the gaps on your own. That said, asking questions will not impact your candidacy so please do not hesitate to reach out.
 - Code quality matters. If everyone gets the same exercise, we have to split hairs on the readability and performance of each candidate's submission.
 - We like creativity and breaking assumed, but not required, constraints.
 - If you happen to extend the functionality of the exercise beyond its core requirements, please do so in another contract so that we can cleanly evaluate meeting our needs first and then look at your new ideas with a more open mind.
