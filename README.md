@@ -32,8 +32,8 @@ The `ERC721ID` contract has the following **minimum requirements**:
   - admins can revoke NFTs
 - Mint
   - mint via call by an admin
-  - mint with a signature from an admin (EIP712 recommended)
   - mint with a merkle proof that was approved by an admin
+  - mint with a signature from an admin (e.g. admin signs for A, B, and C to claim tokens on their own time with their own gas)
 - Transfer
   - transfers are not allowed without guarantee that the new wallet is the same human
 - Owners
